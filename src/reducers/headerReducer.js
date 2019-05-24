@@ -1,0 +1,1 @@
+export default headerReducer = () => [1,2]
